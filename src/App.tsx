@@ -1,4 +1,4 @@
-import Box from "./components/container";
+import Box from "./components/box";
 
 function App() {
     return (
